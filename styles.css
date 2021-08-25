@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Besley:wght@700&display=swap');
+
+body,html{
+    height:100%;
+    width: 100%;
+    font-family: "Besley";
+    font-weight: normal;
+}
+
+
+
+body{
+    background-image: linear-gradient(grey, white);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+#navtext{
+    color: black;
+    background-color:rgba(88, 189, 189, 0.178);
+}
+
+#cbody{
+    background-color: transparent;
+}
+
+.list-group-item{
+    background-color: transparent;
+}
+
+#photo { 
+    height: 300px; width: 300px; overflow: hidden;}
+
+#card{
+    background:rgba(88, 189, 189, 0.178);;
+
+    
+}
+
+#align{
+    text-align: center;
+}
