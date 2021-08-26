@@ -8,7 +8,14 @@ body,html{
     font-weight: normal;
 }
 
+#link{
 
+color: purple;
+font-style: italic;
+text-shadow: 1px 1px royalblue;
+font-size: large;
+
+}
 
 body{
     background-image: linear-gradient(grey, white);
